@@ -8,16 +8,16 @@ public class Ex_002 {
         System.out.println("multi line Comment ");
         System.out.println("multi line Comment ");
         System.out.println("multi line Comment ");
-
+*
 
         */
 
-/*abstract class ab hfd
-hcbsdjfbjsdkf
-
-
-
-sdfbs*/
+///*abstract class ab hfd
+//hcbsdjfbjsdkf
+//
+//
+//
+//sdfbs*/
 
     }
 }
