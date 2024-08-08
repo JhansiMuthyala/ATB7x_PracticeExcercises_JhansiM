@@ -9,14 +9,15 @@ public class Ex_009 {
 
         //Data stored in Char , Alphabets ad special characters
         char grade = 'A';
+        // Variable can have _
         char grade_Sanam = 'E';
         char grade_waseem = 'B';
         char c = '!';
         char c2 = '@';
+        //a variable can start with _
         char _123 = 'N';
 
-        // Can I change the data type of variable between program
-        // No
-        int age = 123;
+        // we cannot change the data type of variable between program
+         int age = 123;
     }
 }
