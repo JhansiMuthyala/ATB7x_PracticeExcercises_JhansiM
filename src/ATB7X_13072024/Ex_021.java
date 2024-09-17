@@ -5,7 +5,9 @@ public class Ex_021 {
         // Unary Operator
         int age = +65;
         int lambo = -1;
+        // only negative numbers should be specified not + ve integers
         System.out.println(age);
         System.out.println(lambo+2);
+
     }
 }

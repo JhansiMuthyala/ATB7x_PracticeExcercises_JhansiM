@@ -16,7 +16,7 @@ public class Ex_020 {
         System.out.println(a*b);
         System.out.println(a/b);
 
-        // %
+        // % modulus
         System.out.println(a%b); // Remainders
 
     }
