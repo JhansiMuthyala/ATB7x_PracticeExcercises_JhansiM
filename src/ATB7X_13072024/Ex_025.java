@@ -1,6 +1,6 @@
 package ATB7X_13072024;
 
-public class Ex_25 {
+public class Ex_025 {
     public static void main(String[] args) {
         //Lab_043
 
