@@ -10,13 +10,13 @@ public class Ex_092 {
             System.out.println("Hello");
         }
 
-      //  for (int j =0;;){
-      //      System.out.println("Hello");
-       // }
+    //    for (int j =0;;){
+    //        System.out.println("Hello");
+      //  }
 
-        for (;;){
-            System.out.println("Hello");
-        }
+        //for (;;){
+          //  System.out.println("Hello");
+       // }
 
     }
 }
