@@ -49,7 +49,31 @@ public class startriangles {
 
 
         }
-        System.out.println("-----------Triangle descending End----------");
+          System.out.println("-----------Triangle descending End----------");
+        for (int i = 1; i <= 5; i++) {
+            if (i == 1) {
+                System.out.println("    *    ");
+            }
+            if (i == 2) {
+                System.out.println("   **  ");
+
+            }
+            if (i == 3) {
+                System.out.println("   ***  ");
+
+            }
+            if (i == 4) {
+                System.out.println("  **** ");
+
+            }
+            if (i == 5) {
+                System.out.println("   ***** ");
+
+            }
+
+        }
+        System.out.println("-----------Triangle Pyramid End----------");
+
 
     }
 }
